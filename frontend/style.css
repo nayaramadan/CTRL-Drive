@@ -1,0 +1,40 @@
+h1{
+    color: rgb(101, 68, 59);
+    padding: 10px 0;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 60px;
+}
+
+h3{
+    color: rgb(180, 87, 87);
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 40px;
+
+}
+
+p{
+    color: rgb(194, 109, 109)
+    font-family: 'Arial', sans-serif;
+
+}
+
+a.button-design {
+    background-color: #daad8d;
+    border: 3px solid rgb(252, 161, 130);
+    color: rgb(255, 221, 199);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    align-items: center;
+    align-content: center;
+    font-family: 'Arial', sans-serif;
+    width: 400px;
+    height: 100px;
+}
