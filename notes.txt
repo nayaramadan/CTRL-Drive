@@ -1,0 +1,40 @@
+NOTES FOR YSWS:
+
+
+TITLE
+    SUBTITLE
+
+IMAGE - BANNER
+
+HOW IT WORKS?
+    MODEL
+    BUILD
+    DRIVE
+    COMPETE
+
+TITLES:
+    AERO
+        build aeronautical vehicles!
+    HYDRO
+        build ship or water vehicles!
+    GEO
+        build ground vehicles!
+    CRAZE
+        build a vehicle that can conquer it all!
+
+FAQ
+    WHAT IS HACK CLUB?
+        e
+    WHO CAN SUBMIT?
+        e
+    CAN I USE AI?
+        e
+    CAN I SUBMIT CTRL + DRIVE TO ANY OTHER YSWS?
+        e  
+    DO I NEED PRIOR EXPERIENCE WITH RC?
+        e - absolutely not! we have tutorials
+
+FINAL
+    Created by NAYA
+    ALMOST Endorsed by Hack CLUB
+    
