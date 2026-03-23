@@ -39,3 +39,16 @@ FAQ
 FINAL
     Created by NAYA
     ALMOST Endorsed by Hack CLUB
+
+intro
+intro2
+background
+answers
+columns
+four elements
+faq1
+faq2
+faq3
+faq4
+faq5
+faq6
