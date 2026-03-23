@@ -6,11 +6,11 @@ TITLE
 
 IMAGE - BANNER
 
-HOW IT WORKS?
-    MODEL
-    BUILD
-    DRIVE
-    COMPETE
+HOW IT WORKS? (dropdowns)
+    MODEL - tutorials
+    BUILD - tutorials
+    DRIVE - images
+    COMPETE - competition
 
 TITLES:
     AERO
@@ -24,17 +24,18 @@ TITLES:
 
 FAQ
     WHAT IS HACK CLUB?
-        e
+        
     WHO CAN SUBMIT?
         e
     CAN I USE AI?
         e
+    HOW DO I TRACK TIME?
+        Time will most likely be tracked through the use of HackClub-created softwares, such as Hackatime and Lapse! These applications connect to your Github repository and assign your hardworking hours to it on the Hackatime website, which will be used upon submission.
     CAN I SUBMIT CTRL + DRIVE TO ANY OTHER YSWS?
-        e  
+        Unfortunately, CTRL + Drive is meant to be a single-ship YSWS, meaning submitting to other YSWS programs along with this is not allowed! However, you may explore the vast majority of HackClub related events that are currently running through the HackClub webpage!
     DO I NEED PRIOR EXPERIENCE WITH RC?
         e - absolutely not! we have tutorials
 
 FINAL
     Created by NAYA
     ALMOST Endorsed by Hack CLUB
-    
